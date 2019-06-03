@@ -1,6 +1,0 @@
-This is an intro to the git quickstart.
-
-Wow. Modified.
-
-Modified again.
-
